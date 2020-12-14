@@ -1,0 +1,4 @@
+function addNumbers(numberOne,numberTwo){
+  return numberOne+numberTwo
+}
+console.log(add(1,5));
